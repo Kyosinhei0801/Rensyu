@@ -11,3 +11,9 @@ void main()
 
 	printf("%s\n", c);
 }
+
+//efinaenbsrng;aowrng;aroina
+
+/*
+	’j‹C
+*/
